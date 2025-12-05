@@ -1,4 +1,4 @@
-# Library Digitalization: Optimizing Book Search and Compression
+# Optimized Book Search for Digital Library
 
 Oct 2024
 
