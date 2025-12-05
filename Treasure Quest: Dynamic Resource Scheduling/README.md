@@ -1,6 +1,6 @@
 # Treasure Quest: Dynamic Resource Scheduling
 
-Oct 2024
+Sep 2024
 
 Instructors: Prof. Parag Singla and Amit Kumar — Department of Computer Science, IIT Delhi (Course Project)
 
