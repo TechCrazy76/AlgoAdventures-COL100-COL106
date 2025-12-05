@@ -1,5 +1,4 @@
-# Flight Route Optimization: Intelligent Pathfinding for Cost, Speed, and Efficiency
-
+# Graph-Based Flight Route Optimizer 
 Nov 2024
 
 Instructors: Prof. Parag Singla and Amit Kumar — Department of Computer Science, IIT Delhi (Course Project)
