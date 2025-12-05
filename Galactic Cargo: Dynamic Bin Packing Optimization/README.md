@@ -1,4 +1,4 @@
-# Galactic Cargo: Dynamic Bin Packing Optimization
+# Dynamic Bin Packing with AVL Trees
 
 Aug 2024
 
